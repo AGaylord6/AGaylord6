@@ -1,4 +1,10 @@
-## Hi there 👋
+# About
+
+☘️  Notre Dame CS major from North Carolina. </br>
+🛰️  Interested in satellites, attitude determination, cybersecurity, and technological education. </br>
+</br>
+https://agaylord6.github.io/ </br>
+https://www.linkedin.com/in/andrew-gaylord6/ </br>
 
 <!--
 **AGaylord6/AGaylord6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
