@@ -1,7 +1,6 @@
 # About
 
-☘️  Notre Dame CS major from North Carolina. </br>
-🛰️  Interested in satellites, attitude determination, cybersecurity, and technological education. </br>
+Security Researcher and Notre Dame CS grad from North Carolina. I'm interested in cybersecurity, satellites, attitude determination, and technological education. </br>
 </br>
 https://agaylord6.github.io/ </br>
 https://www.linkedin.com/in/andrew-gaylord6/ </br>
